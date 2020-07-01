@@ -1,0 +1,27 @@
+"data":
+[
+    {
+        "collegeId": "111001",
+        "collegeName": "Universitas 17 Agustus 1945 Samarinda",
+        "category": "",
+        "numberError": 233
+    },
+    {
+        "collegeId": "111004",
+        "collegeName": "Universitas Panca Bhakti",
+        "category": "",
+        "numberError": 72
+    },
+    {
+        "collegeId": "033066",
+        "collegeName": "Sekolah Tinggi Ilmu Ekonomi Trisakti",
+        "category": "",
+        "numberError": 6691
+    },
+    {
+        "collegeId": "041025",
+        "collegeName": "Universitas Nurtanio",
+        "category": "",
+        "numberError": 60
+    }
+]
